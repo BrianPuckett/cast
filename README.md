@@ -1,112 +1,48 @@
-# cast
-Json integration with FVL
 
-# 🎵 Cardcast
+# 🌎 HELLO, WORLD!
+### 🎵 Welcome to Da Dotland
 
-### An Open-Web Music Publishing Experiment
+**A little dot. A whole world of music.**
 
-**Create something worth collecting.**
+Meet **Mr. Dot** 🔴 and his curious companion **Pixel** 🐟.
 
-Welcome to **Cardcast**, an experiment in publishing music, stories, artwork, and collectible releases using open-web tools.
+They're exploring a world where musicians tell their stories, fans collect memories, and every song has a place to live.
 
----
-
-## 🎸 My First Album
-
-**Artist:** Your Name  
-**Album:** My First Release  
-**Release Date:** Coming Soon
-
-*Every album has a story. This is where ours begins.*
-
-## 🖼️ Album Artwork
-
-![Album cover](https://placehold.co/600x400/png?text=My+Album)
-
-You can replace that image URL with a picture stored in your GitHub repository:
-
-```markdown
-![My Album Cover](images/cover.jpg)
-```
-
-## 🎧 Track Listing
-
-| Track | Song | Duration |
-|---|---|---|
-| 1 | Opening Song | 3:21 |
-| 2 | The Journey | 4:12 |
-| 3 | Home Again | 3:45 |
-
-### Listen to the Music
-
-[Listen on Spotify](https://open.spotify.com/)
-
-[Visit FanVault](https://fanvault.live)
-
-## 📖 Liner Notes
-
-> Music is more than a recording.
-> It's a story, a memory, and a connection.
-
-Write your album story here.
-
-You can use **bold words**, *italic words*, and even ~~cross out something~~.
-
-## 🃏 Collectible Cards
-
-### White Card — The Beginning
-
-Every fan starts somewhere.
-
-### 🔵 Blue Card — Behind the Song
-
-Exclusive artist notes and artwork.
-
-### 🔴 Red Card — The Story
-
-A special recording or personal message.
-
-### 🟡 Gold Card — The Experience
-
-A rare collectible experience.
-
-## 📋 Release Checklist
-
-- [x] Create GitHub repository
-- [x] Write my first README
-- [ ] Add album artwork
-- [ ] Add liner notes
-- [ ] Create Cardcast JSON
-- [ ] Connect a FanVault Deck
-- [ ] Publish the release
-
-## 🔍 More About This Release
-
-<details>
-<summary>Click to reveal the album story</summary>
-
-This section stays hidden until someone clicks it.
-
-You can put more **Markdown** here, including links and images.
-
-</details>
+> 🎶 Create something worth collecting.
 
 ---
 
-## 🌐 The Open-Web Idea
+## 🚀 Choose Your Adventure
 
-**WordLand** writes.  
-**GitHub** publishes.  
-**Cardcast** describes.  
-**FanVault** releases.
+### 💿 [Albums](albums.md)
+Explore album artwork, liner notes, and the stories behind the music.
 
-> Don't defend the walls.
-> Become the most useful service on the open road.
+### 🎸 [Songs](songs.md)
+Discover tracks, lyrics, credits, and the magic behind a recording.
+
+### 💝 [Fandom](fandom.md)
+Cards, collectibles, special moments, and the people who make music matter.
+
+### 🛠️ [Markdown Playground](how-to.md)
+Learn to create beautiful pages with headings, pictures, links, tables, and collectible cards.
 
 ---
 
-### 🔴 Never Forget the Dot
+## 🔴 Mr. Dot Says...
 
-*SMALL. SECURE. WORKING.*
+**"Every great universe begins with a dot."**
 
-**FOR DA DOTLAND!**
+🐟 Pixel says: *"Blub... blub... ROCK & ROLL!"*
+
+---
+
+### 🌈 The Open Road
+
+**Write anywhere. Publish openly. Collect forever.**
+
+Powered by imagination, Markdown, and the open web.
+
+[Visit FanVault.Live](https://fanvault.live)
+
+*SMALL. SECURE. WORKING. — FOR DA DOTLAND!*
+
