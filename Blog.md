@@ -1,3 +1,7 @@
+I am now trying to merge my new code with existing pack open routine in a simulated database in docker.  This is a major technical upgrade for my little app but we have big things planned.  Tomorrow is the intial release of Andy Koh's drop Taking the Long Way and Andy in addition to being an interesting guy, has a interesting story as life long music lover and practioner.
+
+FVL is using Andy's release as a beta to test what does and doesn't work
+
 AI always want to loaf.  I keep prompting and prompting but with security limits i keep in place it always wants to plan instead of execute.  But, once you get it honed in on a mission it can surprise you with how well it does some things and how quickly.  I can see how one person with some customized ai tools can get a tremendous amount done quickly.   I really liked using Dave Winders editor WAordland but I got to say with major limitations <like the versioning> its a pleasure to write in.
 
 
