@@ -1,3 +1,5 @@
+10/29/2026  Andy liked the output form the Take the Long Way drop data.   I built it as example of what a FVL Showcase may look like and to test integration with GitHub **need to update andy page and get ready for spotify link and buy cd link**
+
 10/29/26 1:47 pm I am sitting here late at night trying to get a docker database to run inside a github repository with test data mixed with some real.  It is a bit like fishing.  You copy and paste between the two and then you wait to see if you get a bite.  You have  lot of time on your hands to do other things like this here writing for maybe just the sake of seeing the characters do their little dance.   Pause, compose, continue, repeat, stop, start its all the same.
 
 <previous>
