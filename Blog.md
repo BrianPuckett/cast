@@ -11,6 +11,9 @@ Wow what is cool is as I use the editor it **automatically turns the text in the
 
 And unicodes 💝it accepts unicodes  or even emojis 🎠🌃
 
+<img width="100" height="100" alt="attentionokGIFbyLidlVoyages (2)" src="https://github.com/user-attachments/assets/e304bca2-eecb-4fcf-8c6e-07216c551013" />
+
+
 This is too rich
 
 
