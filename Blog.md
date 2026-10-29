@@ -14,3 +14,4 @@ And unicodes 💝it accepts unicodes  or even emojis 🎠🌃
 This is too rich
 
 
+<img width="512" height="512" alt="Quadrant Color Vinyl Record 512 x 512" src="https://github.com/user-attachments/assets/dbd91112-d65b-4b00-876c-f78266ef1521" />
