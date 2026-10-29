@@ -1,4 +1,7 @@
-10/29/2026  Andy liked the output form the Take the Long Way drop data.   I built it as example of what a FVL Showcase may look like and to test integration with GitHub **need to update andy page and get ready for spotify link and buy cd link**
+AI always want to loaf.  I keep prompting and prompting but with security limits i keep in place it always wants to plan instead of execute.  But, once you get it honed in on a mission it can surprise you with how well it does some things and how quickly.  I can see how one person with some customized ai tools can get a tremendous amount done quickly.   I really liked using Dave Winders editor WAordland but I got to say with major limitations <like the versioning> its a pleasure to write in.
+
+
+10/29/2026 1:07 pm Andy liked the output form the Take the Long Way drop data.   I built it as example of what a FVL Showcase may look like and to test integration with GitHub **need to update andy page and get ready for spotify link and buy cd link**
 
 Moving on to layer up foundation of Coms Module for further testing in sandbox.  Updated Natalie.
 
