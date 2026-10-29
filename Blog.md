@@ -1,4 +1,15 @@
-Hello World   This is a pretty good editor   https://fanvault.live
+There is something satisfying about the creative process.  Even seeing characters appear on the screen endlessly fascinates me. A dopamine rush slight but there and what keeps us pushing forward.
+
+I am at an interesting place.    I have been toying with computers since 1976 when say right justification on machine built by NBI
+
+**Founded in 1973 just over a banjo shop in downtown Boulder, Colorado, NBI was a pioneering startup in the "office automation" space. During the late 1970s and early 1980s, they specialized in building dedicated word processors—high-end, computer-driven hybrid machines designed specifically to bridge the gap between traditional typewriters and early personal computers.**
+
+Steve  my room-mate worked there and I traded help wtih anthropology class for printing my papers right justified.  He definitely got the better part of that deal. I had to write the paper for him.
+
+<img width="200" height="170" alt="CollegeSportsColoradoGIFbyCollegeColorsDay" src="https://github.com/user-attachments/assets/906f82d3-4187-4df2-beb7-f466de60f941" />
+
+
+10/28/26 9:21 pm   Hello World   This is a pretty good editor   https://fanvault.live
 
 I wonder how it formats  I am very interested in using github to replace wordpress as light weight front-end and server to FanVault Live. The editor is actually one of the better ones I have used. I don't need all the formatting fluff, just the basics, like lists, some headings, handle images and of course links.  I am going to use this to explore markdown as righting format.
 
