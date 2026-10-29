@@ -9,4 +9,8 @@ Wow what is cool is as I use the editor it **automatically turns the text in the
 3.  so simple.
 4.  
 
+And unicodes 💝it accepts unicodes  what about gifs <img width="500" height="500" alt="attentionokGIFbyLidlVoyages" src="https://github.com/user-attachments/assets/11c5666b-a083-470f-8dce-73b1074879d6" /> 
+
+This is too rich
+
 
