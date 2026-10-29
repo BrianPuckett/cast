@@ -1,6 +1,5 @@
 # ⚓ The Royal Dotland Admiralty
-## The Voyage Toward HMS Dotyssey
-
+## The Crew prefers the name HMS Dotyssey
 ### 👑 An Announcement from the Royal Fleet
 
 Some voyages begin with a map. Ours began with a little Dot, a curious fish, and a belief that stories, music, and imagination can take us somewhere extraordinary.
