@@ -1,3 +1,5 @@
+3:39 pm,   Still trying to layer up the coms module with the foundation that is already in place in the sandbox.   I have claude and chatgpt sharing a sub directory for as work space. I still execute  typically through a powershell command.  Part of this upgrade forced me to upgrade infrastructure to address risk running with single instance of mr supa dupa htts://supabase.com as we like to call him 
+
 I am now trying to merge my new code with existing pack open routine in a simulated database in docker.  This is a major technical upgrade for my little app but we have big things planned.  Tomorrow is the intial release of Andy Koh's drop Taking the Long Way and Andy in addition to being an interesting guy, has a interesting story as life long music lover and practioner.
 
 FVL is using Andy's release as a beta to test what does and doesn't work
