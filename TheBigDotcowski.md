@@ -14,7 +14,7 @@ Pixel blinked. 🐟 **<°)))><**
 
 “Fffffissshhh?”
 
-“Yeah, lil' fish dude,” said Da Dood. “Da fish abides, too.”
+“Yeah, lil' fish dude,” said Da Dood. “Da fish abides, too.” **“Da Dot abides, mah dots.”** 
 
 ## 🪩 DA GREAT DOTBUE 🌍
 
@@ -38,10 +38,9 @@ Then he spilled his smoothie on the royal carpet.
 
 “Easy, Your Dotness. It's a washable universe.”
 
-![🌈 Da Dood lounging in his rainbow bathrobe beneath a disco-ball moon]
+![🌈 Da Dood lounging in his rainbow dotrobe beneath sunset on California beach]
 
 <img width="1000" height="750" alt="Mr  Dot’s Sunset Beach Abides" src="https://github.com/user-attachments/assets/8a082595-6390-4b71-96ee-aae883cf490f" />
-
 
 
 ## 🃏 OFFICIAL DOTLAND COLLECTIBLE CARD
@@ -53,7 +52,7 @@ Then he spilled his smoothie on the royal carpet.
 | 🏠 Residence | The Rainbow Recliner, Dotland |
 | 💜 Superpower | Extreme Chillification |
 | 🐟 Bestie | Pixel, da lil' fffffish |
-| 🪩 Signature move | The Horizontal Boogie |
+| 🪩 Signature move | The Horizontal Doogie |
 | 💬 Catchphrase | **“Da Dot abides, mah dots.”** |
 | 🌟 Rarity | One-of-a-Dot |
 
