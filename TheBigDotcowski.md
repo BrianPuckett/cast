@@ -1,16 +1,10 @@
 # 🌈🪩 THE BIG DOTCOWSKI 😎🐟
 
-[🏠 Back to Dotland](README.md) · [🃏 Card Gallery](cards.md)
+[🏠 Back to Dotland](README.md) ·
 
 ## 💜 DA DOOD ARRIVES IN DOTLAND 💛
 
-![🌈 Da Dood lounging in his rainbow bathrobe beneath a disco-ball moon](images/da-dood-rainbow-robe.png)
-
 ✨🌟🟣🔵🟢🟡🟠🔴🌟✨
-
-Da Dood rolled into Dotland in fuzzy slippers, a purple bathrobe, and sunglasses so enormous that three little dots were using them for shade.
-
-“Daaaahht,” he announced. “I hear dis place got good vibes an' absolutely no schedules.”
 
 👑 The Queen raised her glittering scepter. “WELCOME TO DA DOTLAND PREMIERE!”
 
@@ -26,6 +20,10 @@ Pixel blinked. 🐟 **<°)))><**
 
 Dots arrived from **all dover da dorld**: 🇺🇸 🇲🇽 🇯🇵 🇫🇷 🇧🇷 🇦🇺 and one mysterious dot from behind the refrigerator. 🧀
 
+Da Dood rolled into Dotland in fuzzy slippers, a purple bathrobe, and sunglasses so enormous that three little dots were using them for shade.
+
+“Daaaahht,” he announced. “I hear dis place got good vibes an' absolutely no schedules.”
+
 Da Dood stepped onto the rainbow carpet. 🌈
 
 “Mah fellow dots, I got one big message: don't let nobody tell ya you're just a period. You might be da beginning of a whole new sentence.” ✨
@@ -39,6 +37,12 @@ Then he spilled his smoothie on the royal carpet.
 👑 “ROYAL JANITOR!” cried the Queen.
 
 “Easy, Your Dotness. It's a washable universe.”
+
+![🌈 Da Dood lounging in his rainbow bathrobe beneath a disco-ball moon]
+
+<img width="1000" height="750" alt="Mr  Dot’s Sunset Beach Abides" src="https://github.com/user-attachments/assets/8a082595-6390-4b71-96ee-aae883cf490f" />
+
+
 
 ## 🃏 OFFICIAL DOTLAND COLLECTIBLE CARD
 
