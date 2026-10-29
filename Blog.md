@@ -1,3 +1,5 @@
+I didn't realize I would have a writing environment right inside a development environment.  Yeah, I know this might sound crazy, but this GitHub is like an envelope that not only publishes but can run applications. It's like a little server. It's an editor. It's a complete version control. It's a really powerful little piece of software. And it's owned by Microsoft. And what I really like about it is there's two doors to it. You can use it in a public mode where the workspace is used as a permanent URL identity, and then you can flip the switch and also use it as a full version website, just with a different entry to the same data. Kind of the whole principle of FanVault.
+
 There is something satisfying about the creative process.  Even seeing characters appear on the screen endlessly fascinates me. A dopamine rush slight but there and what keeps us pushing forward.
 
 I am at an interesting place.    I have been toying with computers since 1976 when say right justification on machine built by NBI
