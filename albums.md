@@ -1,14 +1,10 @@
 
-# 💿 The Album Room
+# 💿 Taking the Long Way
 
-[🏠 Back to Dotland](README.md)
+**Artist:** Andy Koh
+**Release:** 10/30/26
 
-## 🎵 My First Album
-
-**Artist:** Your Name  
-**Release:** Coming Soon
-
-> Every album tells a story.
+Spotify: https://open.spotify.com/artist/2DaZEIpFK3T6bOtsDHYZbm?si=KtEJm0TmT42vrYBmwFbhQQ
 
 ### 📖 Liner Notes
 
@@ -16,13 +12,13 @@ Once upon a time, a little dot heard a song...
 
 ### 🖼️ Cover Art
 
-![Album cover](https://placehold.co/600x400/png?text=My+Album)
+<img width="400" height="300" alt="card" src="https://github.com/user-attachments/assets/757d2c89-9589-4ba3-b56c-323cc770afa3" />
 
 ### 🎧 Tracklist
 
-1. Hello World
-2. A Little Color
-3. The Open Road
+1. Taking the Long Way
+2. 
+3. 
 
 ---
 
