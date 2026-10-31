@@ -1,4 +1,4 @@
-10/30/ 26  Tomorrow is Halloween.  Updated Andy's showcase page for his album drop.  I like Andy and his music.  Very nice and talented guy -- seems to be getting rare these days.   I took a break. Virginia is great place to live. We are very close to West Virginia. It's beautiful.  I feel like I am over the hurdle. Building the frame for Backstage on foundation.  This is just test arena but I like 
+10/30/ 26  Tomorrow is Halloween.  Updated Andy's showcase page for his album drop.  I like Andy and his music.  Very nice and talented guy -- seems to be getting rare these days.   I took a break. Virginia is great place to live. We are very close to West Virginia. It's beautiful.  I feel like I am over the hurdle. Building the frame for Backstage on foundation.  This is just test arena but I like code passed the foundation and legacy open pack logic running in tandem now its just layering up the feature set.  Major upgrade for sure but one dot at a time. As we like to say.
 
 Here is the link to Andy's new album https://open.spotify.com/artist/2DaZEIpFK3T6bOtsDHYZbm?si=yKxI4m7BTDae3WUdU9nBew
 Order the CD 
