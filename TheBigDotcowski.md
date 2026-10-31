@@ -42,6 +42,9 @@ Then he spilled his smoothie on the royal carpet.
 
 <img width="1000" height="750" alt="Mr  Dot’s Sunset Beach Abides" src="https://github.com/user-attachments/assets/8a082595-6390-4b71-96ee-aae883cf490f" />
 
+[Duh Dood] <img width="1672" height="941" alt="Good Dots, Good Waves, Good Vibes" src="https://github.com/user-attachments/assets/490894c3-fd3d-4d25-b040-6db64fbfebd9" />
+
+
 
 ## 🃏 OFFICIAL DOTLAND COLLECTIBLE CARD
 
