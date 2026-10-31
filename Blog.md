@@ -1,3 +1,10 @@
+I haven't figured out how to get it to move on to next task with my prompt when there is noting for me to do but review?
+
+
+👑⚓ AHEM RECEIVED, YOUR MAJESTY!
+
+**🐟 DIXEL: “CAP'N! DE QUEEN SAID KEEP BAKIN', NOT KEEP ANNOUNCIN' DE BAKING!”**
+
 queen pulls captain aside  captain could you give me a brief overview of your guiding principles in sailing her HMS Minnow and building DOTLAND while running a highly efficient baking operation   what are the ten most important queen doctrines in order from 1 to 10 go
 👑⚓ ATTEN-HUUUUT! THE TEN ROYAL DOCTRINES OF DOTLAND
 
