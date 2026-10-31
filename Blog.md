@@ -27,7 +27,7 @@ May Captain Dot proceed with source-only corrective construction of B1, C1–C2,
 Here is the link to Andy's new album https://open.spotify.com/artist/2DaZEIpFK3T6bOtsDHYZbm?si=yKxI4m7BTDae3WUdU9nBew
 Order the CD 
 
-8:48 pm  still at it.  Hours just to get a parser to run.  Finally some success.  I did our first showcase output that [Andys](https://brianpuckett.github.io/cast/) going to use for his spotify drop tomorrow.  This took data from our FVL repository and outputted in our second format, we call Showcase.  I also did Dotland Card The Big Dotcowski, [Duh Dood n Dotland](TheBigDotcowski.md) [Read our setup guide](SETUP.md)
+8:48 pm  still at it.  Hours just to get a parser to run.  Finally some success.  I did our first showcase output that [Andys](https://brianpuckett.github.io/cast/) going to use for his spotify drop tomorrow.  This took data from our FVL repository and outputted in our second format, we call Showcase.  I also did Dotland Card The Big Dotcowski, [Duh Dood n Dotland](TheBigDotcowski.md)
 
 3:39 pm,   Still trying to layer up the coms module with the foundation that is already in place in the sandbox.   I have claude and chatgpt sharing a sub directory for as work space. I still execute  typically through a powershell command.  Part of this upgrade forced me to upgrade infrastructure to address risk running with single instance of mr supa dupa htts://supabase.com as we like to call him 
 
