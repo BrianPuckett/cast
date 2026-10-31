@@ -52,8 +52,6 @@ De Queen always has de final say!
 
 ⚓ CAP'N DOT: “We sail de seas, protect de kingdom, and never bake de discuits before de Queen gives de order!”
 
-🐟 DIXEL: “AND DEVVERY DITTLE DOT DATTERS, CAP'N!”
-
 👑 DOTLAND OR DUST!
 
 
