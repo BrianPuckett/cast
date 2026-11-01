@@ -1,3 +1,5 @@
+11/1/26  2:15 pm  Oh great, now we are building testing tools.  It does seem like the test disposable database is working things have come a bit 'unstuck.'
+
 11/1/26 9 am  wow  can't believe it's November already. Its hard to know when AI is blowing smoke and spinning in circles -- especially, when trying to build new features so you I've found I have to adjust come at it from another angle, offer help, encouragement and lift some security but not risk the crown jewels.
 
 Yesterday was  alot better keeping focused but lot of little pushes which I hate.  Now getting it in batches today,  We'll see how that goes.  Been a solid week of this and staring to burn out a bit.
