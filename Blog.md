@@ -1,5 +1,10 @@
-10/31/26 6:16 pm  dem dittle dots showing at de door in costume is outragous little ones, bit ones all welcome, Mommy Dot has gone to driveway to dispense de dandy.
+11/1/26 9 am  wow  can't believe it's November already. Its hard to know when AI is blowing smoke and spinning in circles -- especially, when trying to build new features so you I've found I have to adjust come at it from another angle, offer help, encouragement and lift some security but not risk the crown jewels.
 
+Yesterday was  alot better keeping focused but lot of little pushes which I hate.  Now getting it in batches today,  We'll see how that goes.  Been a solid week of this and staring to burn out a bit.
+
+Youngest daugher (of 3) starting new job now suggest I schedule meeting with her once a week as she is (I agree) busy.
+
+10/31/26 6:16 pm  dem dittle dots showing at de door in costume is outragous little ones, bit ones all welcome, Mommy Dot has gone to driveway to dispense de dandy. 
 >latest missive from yur queenesss refers you to lv3 directive to continue UNLESS u need queens direct help w/de biscuits!  stop asking to have her hold your hand buck up matey and fly right and get on with it post haste
 
 10/31/26 1:07 pm 
