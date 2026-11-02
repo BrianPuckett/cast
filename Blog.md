@@ -1,4 +1,7 @@
-11:26  6:00 pm  as darkness descends hour earlier with daylight savings time roll-back I learn
+11/2/26  8:04 am   ‘I Wanna Be Adored.’
+
+
+11:26  6:00 pm  as darkness descends hour earlier with daylight savings time roll-back I learn  here’s one that’s every rock star’s dream: ‘I Wanna Be Adored.’” He eulogised the song as one of his favourites, and it is easy to see why.
 
 couch>
 👑🚨 MAN OVERBOARD! NO—QUEEN ON DE FAINTING COUCH!!!
