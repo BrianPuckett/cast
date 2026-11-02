@@ -1,3 +1,10 @@
+11/2/26 3:57 pm  I got the new module installed on then production database using SQL calls. Pretty cool.  All things seem to have checked out.  Usage of the app is so low not a risk but nice to see I can enhance the dbs.   Need to have two databases before we open the door to go beyond beta.  I think we are going to be in beta for a long time.
+
+Now moving on to design.  We did a mockup but this is a significant enhancement so we'll see how long it takes to get to preview?
+
+Kind of gray but still warm.  
+
+
 11/2/26  8:04 am   ‘I Wanna Be Adored.’
 
 
