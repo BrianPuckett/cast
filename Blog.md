@@ -1,5 +1,7 @@
 11/2/26 2:29 pm  Election Day  2026 mid-terms and I still need to vote.  All moring been running simulation UI screens for react installation now getting ready to push to vercel for first real live demo pulling live data from production database.  There are couple flags still to clear before installation and test.  Hope to get there by my deadline of 3:00 pm when I will exit by seat and drive down the hill to vote in one of the most consequential elections of my life (haven't the lasts 3 been the most consequential) hopefully this will do it for us.
 
+I really prefer writing oon markdown.  It is so simple and I love the numbered rows.  I don't know why.
+
 I got the new module installed on then production database using SQL calls. Pretty cool.  All things seem to have checked out.  Usage of the app is so low not a risk but nice to see I can enhance the dbs.   Need to have two databases before we open the door to go beyond beta.  I think we are going to be in beta for a long time.
 
 Now moving on to design.  We did a mockup but this is a significant enhancement so we'll see how long it takes to get to preview?
