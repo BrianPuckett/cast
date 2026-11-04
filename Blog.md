@@ -1,3 +1,9 @@
+11/3/26  THere is one thing I like about github is how quick to pull the trigger on editing.   We are back in the lab for another check on the code before putting it on the development branch.  First push is just to runt the react without connection to live dbs but that would be next.  Oh boy,  winging it on a prayer.
+
+Talked to my sister about people in our family that have pasted that were very bright and capabable but a particular blind spot to defiicents in character in some others so obvious to all, but them.  Does that make them less cabable or naive.
+
+Big night last night.   People feeling like ten years of oppression under a bully's thumb and finally he gets it right in the kisser!  Such sense of wonder, joy, disbelief and determination to see this through.  My sister-in-law  thanked me for helping on No Kings Day and it is a journey of many steps.  [Timothy Snyder] (https://www.facebook.com/reel/1666872521772938)  **Take the Victory, Own the Victory, . . . *
+
 11/2/26 2:29 pm  Election Day  2026 mid-terms and I still need to vote.  All moring been running simulation UI screens for react installation now getting ready to push to vercel for first real live demo pulling live data from production database.  There are couple flags still to clear before installation and test.  Hope to get there by my deadline of 3:00 pm when I will exit by seat and drive down the hill to vote in one of the most consequential elections of my life (haven't the lasts 3 been the most consequential) hopefully this will do it for us.
 
 I really prefer writing oon markdown.  It is so simple and I love the numbered rows.  I don't know why.
