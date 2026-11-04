@@ -1,4 +1,4 @@
-11/3/26  There is one thing I like about github is how quick to pull the trigger on editing.   We are back in the lab for another check on the code before putting it on the development branch.  First push is just to runt the react without connection to live dbs but that would be next.  Oh boy,  winging it on a prayer.
+11/3/26  There is one thing I like about github is how quick to pull the trigger on editing.   We are back in the lab for another check on the code before putting it on the development branch.  First push is just to run the react without connection to live dbs but that would be next.  Oh boy,  winging it on a prayer.
 
 Talked to my sister about people in our family that have passed that were very bright and capabable but a particular blind spot to defiicents in character in some others so obvious to all, but them.  Does that make them less cabable or naive?
 
