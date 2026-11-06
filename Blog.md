@@ -1,3 +1,5 @@
+11/6/26   
+
 11/6/26  Really cool to see what Dave has been working on and I love the name [bonbon] (https://demo.bonbonweb.org/), hahaha, you know if you can't have fun what's the sense. I am really excited about where this is going.  I don't get the concept of browser in browser which I guess is like a container, I don't know, but Dave does and that is all right with me.
 
 I really like how he is separating out the display <img width="800" height="296" alt="110626_01" src="https://github.com/user-attachments/assets/b3aab2eb-e8e0-459e-a13d-6b68756a3d88" />
