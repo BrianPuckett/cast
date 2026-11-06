@@ -2,7 +2,7 @@
 
 I really like how he is separating out the display <img width="800" height="296" alt="110626_01" src="https://github.com/user-attachments/assets/b3aab2eb-e8e0-459e-a13d-6b68756a3d88" />
 
-Why should you be locked in.  I am sure there will be ability to format how you want it to look and save it as a view, or something.  That this is just one piece is what makes it so powerful.   What I really like is I just recently discovered writing in .md and using git as an editor and web identity.  And what makes it so cool is I can just copy and paste from Github into WordLand if I want. and Voila!!
+Why should you be locked in.  I am sure there will be ability to format how you want it to look and save it as a view, or something.  That this is just one piece is what makes it so powerful.   What I really like is I just recently discovered writing in .md and using git as an editor and web identity.  And what makes it so cool is I can just copy and paste from Github into WordLand if I want. and Voila!
 
 11/5/26  Still at it.   I am not familiar enought with claude to code in claude. I use chatpgt to code and claude as an "advisor"   This gives me the ability to keep claude away from code itself but it really is tedious the back and forth.  This is a major feature upgrade and probably by far the hardest and most complex upgrade I plan to do.  Once this one is on development and fully testing I want to change the whole fan page and do another small upgrade to uses web interface to join and follow creators, as well as, open card decks.  Those two pieces together will allow me to relaunch with more intuitive <I beleive> interface and a cool new rewards concept called Backstage.
 
