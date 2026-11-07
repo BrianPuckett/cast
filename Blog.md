@@ -1,4 +1,4 @@
-11/6/26   
+11/7/26   11:17 am.  I have a exploit that could make my code vulnerable.  Its not a crash but a insecure way to do something.  I am maxing out my PC. I need to get some better hardware.  I am getting comfortable with using AI's.  I think the heavy lifting is over but today I have to finese some things into place.  I've been pretty much working from time I get up until bed.  I am off  my workout routine. Although, I did start back up with my walks.  I went out disabled ten years ago. I am now almost 70.  It's hard for me to sit for long stretches so these past two weeks have taken their toll -- but, I have been loving getting into coding.
 
 11/6/26  Really cool to see what Dave has been working on and I love the name [bonbon] (https://demo.bonbonweb.org/), hahaha, you know if you can't have fun what's the sense. I am really excited about where this is going.  I don't get the concept of browser in browser which I guess is like a container, I don't know, but Dave does and that is all right with me.
 
