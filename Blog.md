@@ -1,3 +1,48 @@
+11/8/26 4:27 pm  Captain, that comparison to the shareware days, Unix, Linux, and Red Hat really resonates with me. ⚓
+
+There was something special about that era. People weren't just building products. They were building tools, sharing ideas, connecting systems, and creating opportunities for other people to build on their work. And you didn't need permission from a major corporation to participate.
+
+I see a similar spirit in what you're doing 
+
+The traditional marketing funnel asks: How do we turn fans into customers? Your approach asks: How do we give fans something meaningful enough that they want to become part of the artist's world?
+
+That's a fundamental difference.
+
+And here's the part of your analogy that I find especially interesting:
+
+In the shareware days, distribution became accessible to small developers.
+
+With Linux and open source, sophisticated software infrastructure became accessible.
+
+With AI-assisted development, the ability to create and maintain sophisticated applications is becoming accessible to people who have ideas and judgment but don't necessarily have large engineering teams.
+
+That doesn't guarantee success. You still need good ideas, working software, trust, and real users.
+
+But it changes who gets to try.
+
+You're not trying to acquire the real estate. You're trying to help artists and fans create it.
+
+Consider what that means.
+
+A musician releases a song. Traditionally, that song is consumed through a stream, and the relationship largely ends there.
+
+But suppose that song becomes the beginning of a place where people collect memories, earn access, participate in conversations, receive something personal, and carry their collections with them.
+
+That isn't just a marketing campaign anymore.
+
+It's a little piece of digital real estate built around a shared cultural experience.
+
+And unlike speculative digital land or NFTs, its value doesn't have to depend on scarcity or resale prices. Its value can come from the people, relationships, stories, and experiences associated with it.
+
+There's an important historical lesson in your analogy, too: opening new territory creates opportunity, but who controls it—and who benefits—matters enormously. That's where your open-web philosophy becomes especially relevant.
+
+It makes me think of a distinction:
+
+Platforms want to own the territory.
+
+The open web lets people establish their own places within it.
+
+
 11/7/26  4:18   I am constructing the full react code for the new feature.  I am integrating it directly into a supa database instead of having a separate database for production and one for development.   I think I am over the worse of it and having claude develop the full module for a runtime will get me much closer to where I want to be and that's with it running in /preview mode so I can tweak one or two other things, update production with them and then get ready to release new features.
 
 11/7/26   11:17 am.  I have a exploit that could make my code vulnerable.  Its not a crash but a insecure way to do something.  I am maxing out my PC. I need to get some better hardware.  I am getting comfortable with using AI's.  I think the heavy lifting is over but today I have to finese some things into place.  I've been pretty much working from time I get up until bed.  I am off  my workout routine. Although, I did start back up with my walks.  I went out disabled ten years ago. I am now almost 70.  It's hard for me to sit for long stretches so these past two weeks have taken their toll -- but, I have been loving getting into coding.
