@@ -2,7 +2,7 @@
 
 *A reusable worksheet for planning a FanVault Drop, its card, and its Blue / Red / Gold rewards.*
 
-**How to use:** Make a copy of this file. Fill in the empty fields, add links to any images or audio, and leave any unused asset fields blank. The order and field names follow the planning form used for the Andy Koh pilot Drop; its project-specific content has been removed.
+**How to use:** Make a copy of this file. Fill in the empty fields, add links to any images or audio, and leave any unused asset fields blank. The order and field names follow the game form Drop; it-specific content has been removed.
 
 ---
 
