@@ -1,3 +1,9 @@
+FanVault.Live — By the Numbers
+Last updated: November 12, 2026
+
+43 registered profiles · 16 creator-enabled accounts · 13 collecting fans · 708 issued Cards · 236 packs opened · 84 Decks with awards
+Beta statistics, including test activity. Not independent customer-adoption metrics.
+
 11/12/26 10:41 am  Dixel:  The most beautiful technology may be the technology that gets out of the way and allows people to be themselves.
 
 Not competing for attention. Not measuring their worth. Not telling them who they should become.
