@@ -1,6 +1,7 @@
 11/17/26  9:34 am
 
-<img width="859" height="454" alt="FirstCard" src="https://github.com/user-attachments/assets/5866e4ac-f997-42e9-89b4-3bc756a31b8c" />
+<img width="859" height="454" alt="FirstCard" src="https://github.com/user-attachments/assets/5dc0c0b7-e594-48f5-adf8-1ebcc5ded6e4" />
+
 
 <img width="800" height="317" alt="first_stats" src="https://github.com/user-attachments/assets/c855512c-6613-43fc-b864-dc479e36e3d0" />
 
