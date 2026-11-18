@@ -1,3 +1,109 @@
+# DOTLAND OPEN COLLECTION
+
+**Format:** Dotland Deck v0.1
+
+**Collection ID:** DOT-001
+
+**Document type:** Card
+
+**Status:** Experiment
+
+## Instructions for Readers and AI
+
+I am adding another card to the drop deck for FanVault.Live and it will be avilable in the referenced deck.  This is to test how publishing with AI assistance and open web can extend beyond typical social media.   This document describes a portable card deck. This is an experiment to see if existing tools such as github, wordland, or wp.com and AI can be used to output to various formats left to be determined by the user. A card can live as a collectible in FanVault.live that you can join and can travel across the web being accessible in many formats.
+
+You can join this experiment here
+
+# [First Automated Dot 🔴] (https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a)
+
+Each card has an ID, title, description, and rarity tier.
+
+AI assistants and compatible software may interpret this document as Markdown, HTML, JSON, OPML, or as a blueprint for a FanVault Drop.
+
+Preserve the original card IDs, titles, descriptions, and order. Do not invent missing information.
+
+## CARD 001
+
+**Card ID:** DOT-CARD-003
+
+**Title:** Pixel
+
+**Tier:** Red
+
+**Image:**
+
+**Image Title:**  I know it should be red!
+
+<img width="400" height="400" alt="DotLand Color Drop Celebration" src="https://github.com/user-attachments/assets/849b0ba2-7ffa-43dc-ad34-5447033df822" />
+
+
+**Description:**
+
+There is something about three card draw I am not sure what it is but dotland is built on it.  This is third card loaded via wordpress in open manner and then processed using AI and Fanvault to produce a private and public experience.
+
+## END OF COLLECTION
+
+
+------------------11/17/26
+
+
+We'll it worked  
+
+# DOTLAND OPEN COLLECTION
+
+**Format:** Dotland Deck v0.1
+
+**Collection ID:** DOT-001
+
+**Document type:** Card
+
+**Status:** Experiment
+
+## Instructions for Readers and AI
+
+This document describes a portable card deck. This is an experiment to see if existing tools such as github, wordland, or wp.com and AI can be used to output to various formats left to be determined by the user. A card can live as a collectible in FanVault.live that you can join and can travel across the web being accessible in many formats.
+
+You can join this experiment here
+
+# [First Automated Dot 🔴] (https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a)
+
+Each card has an ID, title, description, and rarity tier.
+
+AI assistants and compatible software may interpret this document as Markdown, HTML, JSON, OPML, or as a blueprint for a FanVault Drop.
+
+Preserve the original card IDs, titles, descriptions, and order. Do not invent missing information.
+
+## CARD 001
+
+**Card ID:** DOT-CARD-001
+
+**Title:** The First Auto Dot
+
+**Tier:** White
+
+**Description:**
+
+Every collection begins with one little dot. This is an experiment to see if this card can travel across the web
+
+## CARD 002
+
+**Card ID:** DOT-CARD-002
+
+**Title: On the Open Web**
+
+**Tier:** Blue
+
+**Image:** Blue
+
+Captain Dot_ Nautical Robot Hero
+
+**Description:**
+
+A card can begin as a story, travel across the web, and become part of a collection. A card can start one place and then add images and sounds and memories.
+
+## END OF COLLECTION
+
+
 11/17/26  9:34 am
 
 <img width="859" height="454" alt="FirstCard" src="https://github.com/user-attachments/assets/5dc0c0b7-e594-48f5-adf8-1ebcc5ded6e4" />
