@@ -10,11 +10,17 @@
 
 ## Instructions for Readers and AI
 
-I am adding another card to the drop deck for FanVault.Live and it will be avilable in the referenced deck.  This is to test how publishing with AI assistance and open web can extend beyond typical social media.   This document describes a portable card deck. This is an experiment to see if existing tools such as github, wordland, or wp.com and AI can be used to output to various formats left to be determined by the user. A card can live as a collectible in FanVault.live that you can join and can travel across the web being accessible in many formats.
+I am adding another card to the drop deck for FanVault.Live, and it will be available in the referenced deck.
 
-You can join this experiment here
+This is a test of how publishing with AI assistance and the open web can extend beyond typical social media.
 
-# [First Automated Dot 🔴] (https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a)
+This document describes a portable card deck. This experiment explores whether existing tools such as GitHub, Wordland, WordPress.com, and AI can produce various formats chosen by the user.
+
+A card can live as a collectible in FanVault.Live, where fans can join a Drop, while its published description can travel across the open web in multiple accessible formats.
+
+You can join this experiment here:
+
+[First Automated Dot 🔴](https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a)
 
 Each card has an ID, title, description, and rarity tier.
 
@@ -22,7 +28,7 @@ AI assistants and compatible software may interpret this document as Markdown, H
 
 Preserve the original card IDs, titles, descriptions, and order. Do not invent missing information.
 
-## CARD 001
+## CARD 003
 
 **Card ID:** DOT-CARD-003
 
@@ -32,17 +38,17 @@ Preserve the original card IDs, titles, descriptions, and order. Do not invent m
 
 **Image:**
 
-**Image Title:**  I know it should be red!
+**Image Title:** I know it should be red!
 
 <img width="400" height="400" alt="DotLand Color Drop Celebration" src="https://github.com/user-attachments/assets/849b0ba2-7ffa-43dc-ad34-5447033df822" />
 
-
 **Description:**
 
-There is something about three card draw I am not sure what it is but dotland is built on it.  This is third card loaded via wordpress in open manner and then processed using AI and Fanvault to produce a private and public experience.
+There is something about a three-card draw. I'm not sure what it is, but Dotland is built on it.
+
+This is the third card, published openly through WordPress and then processed using AI and FanVault to produce both a private and public experience.
 
 ## END OF COLLECTION
-
 
 ------------------11/17/26
 
