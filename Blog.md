@@ -1,3 +1,6 @@
+I have been following closely Dave Winer's exercise in stitching together a more open web.  I particularly enjoyed his podcast yesterday and his recollections of earlier times.   I have been patterning what I am doing with FanVault on Dave's open web principles 
+
+
 # DOTLAND OPEN COLLECTION
 
 **Format:** Dotland Deck v0.1
