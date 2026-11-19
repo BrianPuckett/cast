@@ -1,5 +1,68 @@
-I have been following closely Dave Winer's exercise in stitching together a more open web.  I particularly enjoyed his podcast yesterday and his recollections of earlier times.   I have been patterning what I am doing with FanVault on Dave's open web principles 
+## Connecting the Dots: An Open Web Experiment
 
+I've been following Dave Winer's efforts to stitch together a more open web. I particularly enjoyed his podcast yesterday and his recollections of the early days of computing. Being from the pre-internet generation myself, much of it resonates with me.
+
+I've been patterning much of what we're doing with [FanVault.Live](https://fanvault.live/) on Dave's open-web principles.
+
+Today I learned about Dave's latest project, BonBon, a Markdown-based web browser. There's a [BonBon demo](https://demo.bonbonweb.org/) available for those of us on Windows, so I've been experimenting with it over the past two days.
+
+Running on Dave's enthusiasm, **we (meaning me and AI)** set out to prove something simple: Could we publish collectible cards using ordinary open-web tools, let people see them before collecting them, and still connect everything back to a live FanVault Drop?
+
+### Here's what we did
+
+- **Started with Markdown.** Created a small collection of three cards with permanent IDs, titles, descriptions, rarity tiers, and artwork references.
+
+- **Published through Wordland and WordPress.** Explored using the blog and its RSS feed as a way to distribute card stories and links beyond a single website.
+
+- **Used AI to transform the content.** Generated HTML, JSON, and OPML versions of the same collection, then published them on GitHub Pages.
+
+- **Created an independent card display.** Visitors can see all three cards before collecting anything, read their descriptions, and click **+ View Image** to see the artwork. The display is inspired by FanVault's three-card Pack Open experience.
+
+- **Connected the collection to FanVault.** The cards describe a real Drop, where visitors can join and participate in the collecting experience. The public presentation doesn't require joining first.
+
+- **Found a problem worth learning from.** During our publishing and conversion tests, the JOIN URL did not survive one step as expected. We had to restore and explicitly preserve it. That became part of the experiment: card identity and destination links must survive every conversion.
+
+- **Tested BonBon.** We gave BonBon the published Markdown URL. It independently displayed all three cards, preserved their metadata and image links, and—much to my delight—the JOIN link opened our FanVault Drop!
+
+### Try the experiment yourself
+
+- **Markdown source:**  
+  https://fanvaultlive.github.io/dotland/experiment-001/collection.md
+
+- **HTML card collection — see the cards before collecting:**  
+  https://fanvaultlive.github.io/dotland/experiment-001/index.html
+
+- **JSON version:**  
+  https://fanvaultlive.github.io/dotland/experiment-001/collection.json
+
+- **OPML version:**  
+  https://fanvaultlive.github.io/dotland/experiment-001/collection.opml
+
+- **Join the actual FanVault Drop:**  
+  https://dropline-five.vercel.app/#/drop/a3390d20-3dcf-4596-9dfc-7ccd69fd517a
+
+- **Try BonBon:**  
+  https://demo.bonbonweb.org/
+
+Paste our Markdown URL into BonBon and see what happens. You can follow the image links and the link to the FanVault Drop.
+
+### What did we learn?
+
+A collectible card doesn't have to exist only inside the application where it's collected.
+
+Its story, artwork, identity, and links can be published openly, viewed in different ways, and connected back to the interactive experience.
+
+We also learned that links and metadata don't always survive conversions automatically. That's why we're testing instead of assuming.
+
+RSS offers another possible distribution route, although we haven't yet demonstrated the complete card collection traveling through an RSS reader.
+
+We're calling our broader directory experiment **DirTree**, at [dirtr.ee](https://dirtr.ee/), where we hope to connect independently published collections using existing open-web tools.
+
+No new browser. No new protocol required for this test. Just Markdown, WordPress, GitHub, AI, ordinary URLs, and a live FanVault Drop.
+
+**We ain't inventing nuttin'. We're connecting the dots.**
+
+*Small pieces, loosely joined.*
 
 # DOTLAND OPEN COLLECTION
 
