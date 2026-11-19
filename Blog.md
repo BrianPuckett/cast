@@ -1,18 +1,18 @@
 ## Connecting the Dots: An Open Web Experiment
 
-I've been following Dave Winer's efforts to stitch together a more open web. I particularly enjoyed his podcast yesterday and his recollections of the early days of computing. Being from the pre-internet generation myself, much of it resonates with me.
+I've been following [Dave Winer's] (http://scripting.com/) efforts to stitch together a more open web. I particularly enjoyed his podcast yesterday and his recollections of the early days of computing. Being from the pre-internet generation myself, much of it resonates with me.
 
 I've been patterning much of what we're doing with [FanVault.Live](https://fanvault.live/) on Dave's open-web principles.
 
-Today I learned about Dave's latest project, BonBon, a Markdown-based web browser. There's a [BonBon demo](https://demo.bonbonweb.org/) available for those of us on Windows, so I've been experimenting with it over the past two days.
+I've been reading about Dave's latest project, BonBon, a Markdown-based web browser. There's a [BonBon demo](https://demo.bonbonweb.org/) available for those of us on Windows to at least taste what this browser does so I've been experimenting with it over the past two days.  I've been long time user of Dave's [Wordland] (Wordland.social) to publish to various web sites that I created in 2025 using free wordpress.com hosting and it worked well.  This past spring I started **jive coding**  as Dave called it on his podcast and say the guy is brilliant at coining terms and concepts -- jive coding.   Being a jive coder myself i was honored and got a real belly laugh but it is so true.  What is the next step after vibe but jiving.  
 
-Running on Dave's enthusiasm, **we (meaning me and AI)** set out to prove something simple: Could we publish collectible cards using ordinary open-web tools, let people see them before collecting them, and still connect everything back to a live FanVault Drop?
+So running on Dave's enthusiasm for all things networked and all amped up, **we (meaning me and AI)** set out to prove something simple: Could we publish collectible cards using ordinary open-web tools, let people see them before collecting them, and still connect everything back to a live FanVault Drop?  Could in essence a card be a collectible when released one way and I am not sure what when released another way.  For examle the simple cards when provenance is attached and certified as part of FanVault drop are one representation of being there a part of it and different then viewing what may be the exact same information 'unlocked.' 
 
 ### Here's what we did
 
-- **Started with Markdown.** Created a small collection of three cards with permanent IDs, titles, descriptions, rarity tiers, and artwork references.
+- **Started with Markdown.** Created a small collection of three cards with permanent IDs, titles, descriptions, rarity tiers, and artwork references.  Wrapped them in a template and instructions for both readers and machine reading <AI>
 
-- **Published through Wordland and WordPress.** Explored using the blog and its RSS feed as a way to distribute card stories and links beyond a single website.
+- **Published through Wordland and WordPress.** Used Wordland to publish to my [blog] () Explored using the blog and its RSS feed as a way to distribute card stories and links beyond a single website.
 
 - **Used AI to transform the content.** Generated HTML, JSON, and OPML versions of the same collection, then published them on GitHub Pages.
 
