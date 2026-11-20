@@ -1,6 +1,6 @@
 And that spectacular Blue–Gold–Red pack? At the stated probabilities, that exact order has a probability of just 0.075% — about 1 in 1,333 packs!
 
-<img width="1274" height="1670" alt="112026_02" src="https://github.com/user-attachments/assets/e8119381-0a94-4dfa-ad49-2c6f597b1625" />
+<img width="600" height="800" alt="112026_02" src="https://github.com/user-attachments/assets/e8119381-0a94-4dfa-ad49-2c6f597b1625" />
 
 
 ## Connecting the Dots: An Open Web Experiment
