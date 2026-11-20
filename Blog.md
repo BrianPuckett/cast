@@ -1,3 +1,8 @@
+And that spectacular Blue–Gold–Red pack? At the stated probabilities, that exact order has a probability of just 0.075% — about 1 in 1,333 packs!
+
+<img width="1274" height="1670" alt="112026_02" src="https://github.com/user-attachments/assets/e8119381-0a94-4dfa-ad49-2c6f597b1625" />
+
+
 ## Connecting the Dots: An Open Web Experiment
 
 I've been following [Dave Winer's] (http://scripting.com/) efforts to stitch together a more open web. I particularly enjoyed his podcast yesterday and his recollections of the early days of computing. Being from the pre-internet generation myself, much of it resonates with me.
