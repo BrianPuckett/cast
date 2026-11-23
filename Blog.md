@@ -1,3 +1,14 @@
+I've been following [Dave Winer's work on BonBon](https://demo.bonbonweb.org/), his new Markdown browser and vision for a web built around writers and readers. It got me thinking about some experiments to use the open web to announce a FanVault drop of three collectible cards, one little collection, published using ordinary web standards including Markdown, JSON, and OPML.
+
+[Dotland](https://fanvaultlive.github.io/), our open-web playground for FanVault.Live, we started with [Experiment 001 — First Automated Dot](https://fanvaultlive.github.io/dotland/experiment-001/) and used Feedland to announce it.
+
+I want to use .md for card text in next release so I wrote a little loader to handle .md.  The second part I made available for anyone that wants to create a url from .md document and try it in bon bon or share the public url.  
+
+**[Markdown Publish Lab](https://markdown-publish-lab-preview-b80eovykz-brianpucketts-projects.vercel.app/)** where you can upload a `.md` file, preview it, click Publish, and get a public link to share. No elaborate publishing system required.
+
+
+
+
 And that spectacular Blue–Gold–Red pack? At the stated probabilities, that exact order has a probability of just 0.075% — about 1 in 1,333 packs!
 
 <img width="600" height="800" alt="112026_02" src="https://github.com/user-attachments/assets/e8119381-0a94-4dfa-ad49-2c6f597b1625" />
