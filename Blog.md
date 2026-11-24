@@ -1,4 +1,6 @@
-I have really been enjoying using github to develop and write and [publish] (https://fanvaultlive.github.io/) and can't wait to get windows version of [Dave's] (http://scripting.com/) Bon Bon [Markdown browser] (https://demo.bonbonweb.org/) and all the pieces that are coming together for open web publishing including machine reading.  I spent yesterday setting up way to [generate a url using .md file] (https://markdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app/) and using [Feedland] (https://feedland.com/?river=https%3A%2F%2Ffanvaultlive.github.io%2Fdotland%2Fexperiment-001%2Ffeed.xml) to post it to rss. 
+I have really been enjoying using github to develop and write and [publish] (https://fanvaultlive.github.io/) and can't wait to get windows version of [Dave's] (http://scripting.com/) Bon Bon [Markdown browser] (https://demo.bonbonweb.org/) and all the pieces that are coming together for open web publishing including machine reading.
+
+I spent yesterday setting up way to [generate a url using .md file] (https://markdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app/) and using [Feedland] (https://feedland.com/?river=https%3A%2F%2Ffanvaultlive.github.io%2Fdotland%2Fexperiment-001%2Ffeed.xml) to post it to rss. 
 
 It's basically a curated feed where if you want to push something to rss you can use my feed by submitting from the form.
 
