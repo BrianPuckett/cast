@@ -1,3 +1,8 @@
+I have really been enjoying using github to develop and write and publish and can't wait to get windows version of Dave's Bon Bon Markdown browser and all the pieces that are coming together for open web publishing including machine reading.  I spent yesterday setting up way to generate a url using .md file and using feedland to post it to rss.  It's basically a curated feed where if you want to push something to rss you can use my feed by submitting from the form.   BUt .rsschat by Dave pretty much does everything for you and gives you ability to edit your posts.  
+
+  I love .rsschat as pretty much everything and more of what I built yesterday as incudes .rss.  Here is post of three card FanVualt deck in .rsschat.  And you can subscribe to my .rss chat here or my Dotland Express Fedland here.
+
+
 I've been following [Dave Winer's work on BonBon](https://demo.bonbonweb.org/), his new Markdown browser and vision for a web built around writers and readers. It got me thinking about some experiments to use the open web to announce a FanVault drop of three collectible cards, one little collection, published using ordinary web standards including Markdown, JSON, and OPML.
 
 [Dotland](https://fanvaultlive.github.io/), our open-web playground for FanVault.Live, we started with [Experiment 001 — First Automated Dot](https://fanvaultlive.github.io/dotland/experiment-001/) and used Feedland to announce it.
