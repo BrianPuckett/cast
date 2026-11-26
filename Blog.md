@@ -1,3 +1,18 @@
+Github has become a place where I can share public what I [work](https://github.com/BrianPuckett/cast) on and share what I am [working on](https://fanvaultlive.github.io/) in a differnent form of essentially the same data.
+
+I like to create .md files and then run AI at them to see what they can create.
+
+I think .md works because it can can be read by humans and machines. In some ways doesn't all writing have some AI since spell check? I mean think about it I assume people are drafting emails with AI. So why not write with AI in mind from the beginning using an easy format like Markup? 
+
+ I see where [Dave](http://scripting.com) has all the pieces of a _network of capabilites_ I just don't quite see the front door. Like in many things its probably staring me right in the face. I think [Bon Bon](https://demo.bonbonweb.org/) is elegant but how do you create the _web_ of .md documents or is it just an alternative view of same data?
+
+I am exploring idea of how to help musicians use free tools to build fan communities. I create a game where a musican or artist can create a deck of cards and assign rarity to them and then drop them to subscribers. I have now added to it the abiliy to enhance rewards with a direct fan to artist connection via live chat, voice and real-time video (all supported with 'host' where artist can have helper run what I call Backstage.    I am getting ready to release it over the holidays.
+
+What I think is even more interesting is if fan and artist after chat could both agree to publish the conversation via rss.chat.  I think I wll try a test of that next.
+
+
+
+
 I have really been enjoying using github to develop and write and [publish] (https://fanvaultlive.github.io/) and can't wait to get windows version of [Dave's] (http://scripting.com/) Bon Bon [Markdown browser] (https://demo.bonbonweb.org/) and all the pieces that are coming together for open web publishing including machine reading.
 
 I spent yesterday setting up way to [generate a url using .md file] (https://markdown-publish-lab-preview-bjfylktp3-brianpucketts-projects.vercel.app/) and using [Feedland] (https://feedland.com/?river=https%3A%2F%2Ffanvaultlive.github.io%2Fdotland%2Fexperiment-001%2Ffeed.xml) to post it to rss. 
