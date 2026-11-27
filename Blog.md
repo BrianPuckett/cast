@@ -1,3 +1,69 @@
+Today I wanted to see if I could post to Dave Winer's demo.rsschat.com 
+
+# One little dot on the open web: posting to Dave Winer's RSS.chat through its API
+
+*Dotland Express — Experiment 002, November 2026*
+
+On November 27 at 00:24 UTC, a small PowerShell script on an ordinary Windows computer sent one message to RSS.chat, and it came back as post **807**:
+
+**https://demo.rss.chat/?id=807**
+
+This is the story of that one post, including the two times it didn't work.
+
+## RSS.chat, briefly
+[RSS.chat](https://github.com/scripting/rss.chat) is Dave Winer's chat system built on RSS. Every post is an item in its author's own RSS feed. Every reply is a post in the replier's feed that points back at its parent. The server has a small, plainly documented HTTP API: plain GET requests read posts, threads, people and feeds, and authenticated requests write. Anything that can make an HTTP request and read JSON can be a client.
+
+## Why musicians might care
+An independent musician's conversations with fans usually live inside someone else's platform, under its rules, its ranking and its shutdown date. A conversational publishing engine built on RSS changes who owns what:
+- **Each voice keeps its own words.** The artist's posts sit in the artist's feed, and a fan's replies sit in the fan's feed.
+- **Anyone can follow along** with any feed reader, without an account or an algorithm.
+- **Threads have permalinks.** A conversation can be cited, linked and kept.
+
+## What we did
+One deliberately tiny experiment, standalone and connected to nothing else:
+1. **One script, one post.** A short Windows PowerShell script shows the message, asks for the account's email and code (the code is hidden as you type), and requires typing `PUBLISH`. Then it calls the documented `/newpost` endpoint exactly once, with no retries. It refuses to run again in the same folder, and it checks the author's public posts first so the same message can't go out twice.
+2. **Credentials stay home.** They were typed only on the experimenter's own computer and never shared, not even with the AI assistant that helped write and test the script. One caveat comes from RSS.chat's API itself: it carries the email and code in the request URL, which the server may log.
+3. **Read it back, in public.** Unauthenticated requests then read the post through the thread API, the item's RSS form, the permalink page and the author's RSS feeds.
+
+Before going live, the script was tested against a local fake server with fake credentials: dozens of cases covering the exact message text, cancelling, duplicates, refusals and dropped connections.
+
+## What worked, and what didn't
+**It didn't work at first.** The first two live attempts came back **HTTP 503**, which is RSS.chat's single code for "can't do that". Public checks confirmed that nothing had been posted. Our script deliberately hid the server's explanation, because one of RSS.chat's refusal messages repeats the account's email address. So we only knew that it said no, not why.
+
+Reading RSS.chat's open source code showed the possible reasons: a wrong code, an unknown email, an unreadable message, a blocked account, or a message with no text. It also showed that almost all of them happen before anything is saved. So we revised the script:
+- It trims stray spaces from the email.
+- It checks that the code has the expected length, showing only the length.
+- It names each known refusal without displaying it.
+- It treats anything unexpected as "result unknown: check the feed before doing anything else."
+
+**The third attempt worked:** `PUBLISHED (HTTP 200)`, post 807, author Brian. Every public check then passed:
+
+| Check | Result |
+|---|---|
+| Thread API (`/getthread?id=807`) | HTTP 200, author `Brian` |
+| Title and text | identical to the approved message, character for character |
+| RSS form of the item | HTTP 200, with its permalink |
+| Permalink page | HTTP 200 |
+| Brian's RSS feed ([rss.xml](https://demo.rss.chat/users/Brian/rss.xml)) | contains the post, once |
+| Duplicates | none |
+
+We never learned for certain why the first two attempts were refused. The most likely explanation is a mismatched or incompletely pasted code, which the revised script now catches before sending. That's the honest answer, and it's part of the result.
+
+## What this is not
+**This is a standalone API test, not a FanVault integration.** No FanVault code, database, Backstage session, artist or fan was involved, and nothing here shows that FanVault can publish to RSS.chat. It shows that RSS.chat's documented write-then-read cycle works for one post from one small script. Replies, two-person conversations and production use are still untested.
+
+## Where it could go: the Living Card
+At FanVault, a fan can win a card that unlocks a short Backstage session with an artist. The idea we're exploring is a **Living Card**: the card stays linked to that real session and can become the door to a continuing public conversation, a **Living Document** with its history intact.
+
+Two conditions come before any real Backstage moment is ever published:
+- **Mutual consent.** The artist and the fan each say yes, independently. Either can step back. Because RSS is syndicated, anything already read may persist, and people need to know that before they agree.
+- **Provenance.** Each person posts from their own account, under their own name. Nothing is published on anyone's behalf, and a card links to a post only after it has been checked against the exact session it came from.
+
+> The reward creates the moment. The conversation creates the relationship. The Living Document preserves the history.
+
+*Thanks to Dave Winer for building RSS.chat in the open, with an API simple enough to test from a Windows laptop, and source code clear enough to debug from.*
+
+
 Github has become a place where I can share public what I [work](https://github.com/BrianPuckett/cast) on and share what I am [working on](https://fanvaultlive.github.io/) in a differnent form of essentially the same data.
 
 I like to create .md files and then run AI at them to see what they can create.
