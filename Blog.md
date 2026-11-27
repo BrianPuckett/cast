@@ -28,13 +28,7 @@ One deliberately tiny experiment, standalone and connected to nothing else:
 Before going live, the script was tested against a local fake server with fake credentials: dozens of cases covering the exact message text, cancelling, duplicates, refusals and dropped connections.
 
 ## What worked, and what didn't
-**It didn't work at first.** The first two live attempts came back **HTTP 503**, which is RSS.chat's single code for "can't do that". Public checks confirmed that nothing had been posted. Our script deliberately hid the server's explanation, because one of RSS.chat's refusal messages repeats the account's email address. So we only knew that it said no, not why.
-
-Reading RSS.chat's open source code showed the possible reasons: a wrong code, an unknown email, an unreadable message, a blocked account, or a message with no text. It also showed that almost all of them happen before anything is saved. So we revised the script:
-- It trims stray spaces from the email.
-- It checks that the code has the expected length, showing only the length.
-- It names each known refusal without displaying it.
-- It treats anything unexpected as "result unknown: check the feed before doing anything else."
+**It didn't work at first.** The first two live attempts came back **HTTP 503**, which is RSS.chat's single code for "can't do that". 
 
 **The third attempt worked:** `PUBLISHED (HTTP 200)`, post 807, author Brian. Every public check then passed:
 
@@ -46,8 +40,6 @@ Reading RSS.chat's open source code showed the possible reasons: a wrong code, a
 | Permalink page | HTTP 200 |
 | Brian's RSS feed ([rss.xml](https://demo.rss.chat/users/Brian/rss.xml)) | contains the post, once |
 | Duplicates | none |
-
-We never learned for certain why the first two attempts were refused. The most likely explanation is a mismatched or incompletely pasted code, which the revised script now catches before sending. That's the honest answer, and it's part of the result.
 
 ## What this is not
 **This is a standalone API test, not a FanVault integration.** No FanVault code, database, Backstage session, artist or fan was involved, and nothing here shows that FanVault can publish to RSS.chat. It shows that RSS.chat's documented write-then-read cycle works for one post from one small script. Replies, two-person conversations and production use are still untested.
