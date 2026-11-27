@@ -63,7 +63,7 @@ Two conditions come before any real Backstage moment is ever published:
 > The reward creates the moment. The conversation creates the relationship. The Living Document preserves the history.
 
 
-Experiment 002 — Our published RSS.chat post] (https://demo.rss.chat/?id=807)
+Experiment 002 — Our published RSS.chat post] (https://demo.rss.chat/?id=807)24/26
 [Brian's RSS feed] (https://demo.rss.chat/users/Brian/rss.xml)
 [Experiment 001 — Three Cards on the Open Web] (https://fanvaultlive.github.io/dotland/experiment-001/)
 [FanVault.Live] ( https://www.fanvault.live/)
@@ -74,6 +74,8 @@ Our initial test was successfully and our next step is to install rsschat server
 
 
 *Thanks to Dave Winer for building RSS.chat in the open, with an API simple enough to test from a Windows laptop, and source code clear enough to debug from.*
+
+**11/24/26  Day Before Thanksgiving.   Pie day.  Today I bake pies for Thanksgiving.
 
 Github has become a place where I can share public what I [work](https://github.com/BrianPuckett/cast) on and share what I am [working on](https://fanvaultlive.github.io/) in a differnent form of essentially the same data.
 
