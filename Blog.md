@@ -1,36 +1,45 @@
-Today I wanted to see if I could post to Dave Winer's demo.rsschat.com 
+Dave has been asking for people to call his open web components via their applications.  FanVault is a little web app that is focused on connecting indie musicians with fans.  I created a game where muscians can create and drop cards with rewards tied to them.  I have now updated that to include a communication component of live chat, voice and real-time video tied to the reward system.
 
-# One little dot on the open web: posting to Dave Winer's RSS.chat through its API
 
-*Dotland Express — Experiment 002, November 2026*
+With FanVault's serendipity a fan could connect to their favorite bias.   But what if at the end of that conversation via Dave's rsschat they could decide to continue or let others read and participate to create, if you will, a living document based on the open web.   Dave has been kind of nice to run a demo site and provide an API.  This allowed me to test before installing a rsschat server.
 
-On November 27 at 00:24 UTC, a small PowerShell script on an ordinary Windows computer sent one message to RSS.chat, and it came back as post **807**:
 
-**https://demo.rss.chat/?id=807**
-
-This is the story of that one post, including the two times it didn't work.
-
-## RSS.chat, briefly
+## RSS.chat
 [RSS.chat](https://github.com/scripting/rss.chat) is [Dave Winer's] (http://scripting.com/) chat system built on RSS. Every post is an item in its author's own RSS feed. Every reply is a post in the replier's feed that points back to its parent. The server has a small, plainly documented HTTP API: plain GET requests read posts, threads, people and feeds, and authenticated requests write. Anything that can make an HTTP request and read JSON can be a client.
+
 
 ## Why musicians might care
 An independent musician's conversations with fans usually live inside someone else's platform, under its rules, its ranking and its shutdown date. A conversational publishing engine built on RSS changes who owns what:
-- **Each voice keeps its own words.** The artist's posts sit in the artist's feed, and a fan's replies sit in the fan's feed.
-- **Anyone can follow along** with any feed reader, without an account or an algorithm.
-- **Threads have permalinks.** A conversation can be cited, linked and kept.
+
+
+Each voice keeps its own words.
+The artist's posts sit in the artist's feed, and a fan's replies sit in the fan's feed.
+Anyone can follow along** with any feed reader, without an account or an algorithm.
+Threads have permalinks.** A conversation can be cited, linked and kept.
+
 
 ## What we did
 One deliberately tiny experiment, standalone and connected to nothing else:
-1. **One script, one post.** A short Windows PowerShell script shows the message, asks for the account's email and code (the code is hidden as you type), and requires typing `PUBLISH`. Then it calls the documented `/newpost` endpoint exactly once, with no retries. It refuses to run again in the same folder, and it checks the author's public posts first so the same message can't go out twice.
+
+
+1. **One script, one post.** A short Windows PowerShell script shows the message, asks for the account's email and code (the code is hidden as you type), and requires typing `PUBLISH`. Then it calls the documented `/newpost` endpoint exactly once, with no retries. 
+
+
 2. **Credentials stay home.** They were typed only on the experimenter's own computer and never shared, not even with the AI assistant that helped write and test the script. One caveat comes from RSS.chat's API itself: it carries the email and code in the request URL, which the server may log.
+
+
 3. **Read it back, in public.** Unauthenticated requests then read the post through the thread API, the item's RSS form, the permalink page and the author's RSS feeds.
+
 
 Before going live, the script was tested against a local fake server with fake credentials: dozens of cases covering the exact message text, cancelling, duplicates, refusals and dropped connections.
 
-## What worked, and what didn't
-**It didn't work at first.** The first two live attempts came back **HTTP 503**, which is RSS.chat's single code for "can't do that". 
 
+## What worked, and what didn't
+
+
+**It didn't work at first.** The first two live attempts came back **HTTP 503**, which is RSS.chat's single code for "can't do that".
 **The third attempt worked:** `PUBLISHED (HTTP 200)`, post 807, author Brian. Every public check then passed:
+
 
 | Check | Result |
 |---|---|
@@ -41,26 +50,30 @@ Before going live, the script was tested against a local fake server with fake c
 | Brian's RSS feed ([rss.xml](https://demo.rss.chat/users/Brian/rss.xml)) | contains the post, once |
 | Duplicates | none |
 
+
 ## What this is not
 **This is a standalone API test, not a FanVault integration.** No FanVault code, database, Backstage session, artist or fan was involved, and nothing here shows that FanVault can publish to RSS.chat. It shows that RSS.chat's documented write-then-read cycle works for one post from one small script. Replies, two-person conversations and production use are still untested.
 
+
 ## Where it could go: the Living Card
 At FanVault, a fan can win a card that unlocks a short Backstage session with an artist. The idea we're exploring is a **Living Card**: the card stays linked to that real session and can become the door to a continuing public conversation, a **Living Document** with its history intact.
-
 Two conditions come before any real Backstage moment is ever published:
 - **Mutual consent.** The artist and the fan each say yes, independently. Either can step back. Because RSS is syndicated, anything already read may persist, and people need to know that before they agree.
 - **Provenance.** Each person posts from their own account, under their own name. Nothing is published on anyone's behalf, and a card links to a post only after it has been checked against the exact session it came from.
-
 > The reward creates the moment. The conversation creates the relationship. The Living Document preserves the history.
 
-Experiment 002 — Our published RSS.chat post] (https://demo.rss.chat/?id=807)
 
+Experiment 002 — Our published RSS.chat post] (https://demo.rss.chat/?id=807)
 [Brian's RSS feed] (https://demo.rss.chat/users/Brian/rss.xml)
 [Experiment 001 — Three Cards on the Open Web] (https://fanvaultlive.github.io/dotland/experiment-001/)
 [FanVault.Live] ( https://www.fanvault.live/)
 
-*Thanks to Dave Winer for building RSS.chat in the open, with an API simple enough to test from a Windows laptop, and source code clear enough to debug from.*
 
+Our initial test was successfully and our next step is to install rsschat server and integrate it with FanVault's Backstage communication module.  
+
+
+
+*Thanks to Dave Winer for building RSS.chat in the open, with an API simple enough to test from a Windows laptop, and source code clear enough to debug from.*
 
 Github has become a place where I can share public what I [work](https://github.com/BrianPuckett/cast) on and share what I am [working on](https://fanvaultlive.github.io/) in a differnent form of essentially the same data.
 
