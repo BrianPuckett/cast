@@ -11,7 +11,7 @@ On November 27 at 00:24 UTC, a small PowerShell script on an ordinary Windows co
 This is the story of that one post, including the two times it didn't work.
 
 ## RSS.chat, briefly
-[RSS.chat](https://github.com/scripting/rss.chat) is Dave Winer's chat system built on RSS. Every post is an item in its author's own RSS feed. Every reply is a post in the replier's feed that points back at its parent. The server has a small, plainly documented HTTP API: plain GET requests read posts, threads, people and feeds, and authenticated requests write. Anything that can make an HTTP request and read JSON can be a client.
+[RSS.chat](https://github.com/scripting/rss.chat) is [Dave Winer's] (http://scripting.com/) chat system built on RSS. Every post is an item in its author's own RSS feed. Every reply is a post in the replier's feed that points back to its parent. The server has a small, plainly documented HTTP API: plain GET requests read posts, threads, people and feeds, and authenticated requests write. Anything that can make an HTTP request and read JSON can be a client.
 
 ## Why musicians might care
 An independent musician's conversations with fans usually live inside someone else's platform, under its rules, its ranking and its shutdown date. A conversational publishing engine built on RSS changes who owns what:
@@ -60,6 +60,12 @@ Two conditions come before any real Backstage moment is ever published:
 - **Provenance.** Each person posts from their own account, under their own name. Nothing is published on anyone's behalf, and a card links to a post only after it has been checked against the exact session it came from.
 
 > The reward creates the moment. The conversation creates the relationship. The Living Document preserves the history.
+
+Experiment 002 — Our published RSS.chat post] (https://demo.rss.chat/?id=807)
+
+[Brian's RSS feed] (https://demo.rss.chat/users/Brian/rss.xml)
+[Experiment 001 — Three Cards on the Open Web] (https://fanvaultlive.github.io/dotland/experiment-001/)
+[FanVault.Live] ( https://www.fanvault.live/)
 
 *Thanks to Dave Winer for building RSS.chat in the open, with an API simple enough to test from a Windows laptop, and source code clear enough to debug from.*
 
