@@ -1,4 +1,10 @@
-11/28/26  I have one last task assigning host to backstage before I can prepare to update production.  Today, we created a screen-name instead of using a shorted email address.  That is why all ids in Fanvault show as UNKNOWN CREATOR.   I pushed off screen names as a missed step.  So just getting to it now as I need it because in backstage you can assign by screen name a 'host' that has rights and you as artist can toggle rights on an off as far as opening backstage and redeem rewards.    In using the software I realize that its the connection not the reward.  Some creators may want to not redeem the rewards so the fan can continue to use backstage until that reward is redeemed.
+11/28/26  I have one last task assigning host to backstage before I can prepare to update production.  Today, we created a screen-name instead of using a shorted email address.  That is why all ids in Fanvault show as UNKNOWN CREATOR.   I pushed off screen names as a missed step.  So just getting to it now as I need it because in backstage you can assign by screen name a 'host' that has rights and you as artist can toggle rights on an off as far as opening backstage and redeem rewards.    In using the software I realize that its the connection not the reward.  Some creators may want to not redeem the rewards so the fan can continue to use backstage until that reward is redeemed.  I am excited about linking fans to artist directly using backstage.   I also have some idea about how the conversation can continue after on the open web.
+
+This release should install the full backstage package, end-to-end  there is one feature we are going to do as direct follow-up and that is a small editable office hours so artist can let fans known when they plan being online in the backstage.
+
+
+
+
 
 11/27/26 -- Dave has been asking for people to call his open web components via their applications.  FanVault is a little web app that is focused on connecting indie musicians with fans.  I created a game where muscians can create and drop cards with rewards tied to them.  I have now updated that to include a communication component of live chat, voice and real-time video tied to the reward system.
 
